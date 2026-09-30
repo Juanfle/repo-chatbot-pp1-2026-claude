@@ -32,4 +32,4 @@ code .
 ## Estado del proyecto
 Prototipo funcional con lógica en el front-end. Backend con Node.js: pendiente.
 
-## Hola, todo bien?
+## Hola, todo bien?.
