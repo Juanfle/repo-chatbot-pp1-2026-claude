@@ -19,7 +19,7 @@ Chatbot básico de ejemplo, desarrollado en el contexto de la materia Prácticas
 
 ## Cómo clonarlo
 ```bash
-git clone https://github.com/Juanfle/repo-chatbot-pp1-2026-claude,git
+git clone https://github.com/Juanfle/repo-chatbot-pp1-2026-claude.git
 cd repo-chatbot-pp1-2026-claude
 code .
 ```
