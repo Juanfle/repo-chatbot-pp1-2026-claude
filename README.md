@@ -19,8 +19,8 @@ Chatbot básico de ejemplo, desarrollado en el contexto de la materia Prácticas
 
 ## Cómo clonarlo
 ```bash
-git clone https://github.com/usuario/chatbot-pp1.git
-cd chatbot-pp1
+git clone https://github.com/Juanfle/repo-chatbot-pp1-2026-claude.git
+cd repo-chatbot-pp1-2026-claude
 code .
 ```
 
@@ -31,5 +31,3 @@ code .
 
 ## Estado del proyecto
 Prototipo funcional con lógica en el front-end. Backend con Node.js: pendiente.
-
-## Hola, todo bien?.
