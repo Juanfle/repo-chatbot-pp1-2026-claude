@@ -1,5 +1,11 @@
 Hola a todos 
 conflicto merge ?
-
+Practicando Ramas en github
+//crea una rama nueva
+git branch rama-nueva
+//elimina una rama
+git branch -d rama-nueva
+//cambiar a la rama creada
+git switch rama-nueva
 
 
