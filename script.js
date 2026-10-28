@@ -42,3 +42,5 @@ function generarRespuesta(mensaje) {
     return "No entendí tu mensaje, ¿podés reformularlo?";
   }
 }
+
+fasdfs
